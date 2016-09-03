@@ -1,3 +1,5 @@
+//循环删除链表的元素，可以模仿队列来操作
+
 #include <iostream>
 
 using namespace std;
